@@ -1,0 +1,1 @@
+Moving beyond univariate space, multivariate distributions govern complex systems where multiple interconnected random variables exist simultaneously, taking correlation matrices into account.
